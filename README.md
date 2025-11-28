@@ -13,4 +13,16 @@ full stack vibe coding
   "createdAt": "2025-11-28T18:31:00Z"
 }
 
+## Part 2 — Division of Labor (Simulated for 1-person project)
+
+Student A (Front-End Developer):
+- Designed UI form using Lovable
+- Created HTML form for adding movie reviews
+- Connected frontend to Firebase API
+
+Student B (Backend Developer):
+- Created Firebase Firestore database
+- Added movies and reviews collections
+- Implemented CRUD API integration
+- Tested data saving + retrieval
 
