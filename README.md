@@ -25,4 +25,17 @@ Student B (Backend Developer):
 - Added movies and reviews collections
 - Implemented CRUD API integration
 - Tested data saving + retrieval
+## Student 2 Updates  
+- Added the full-stack app description  
+- Added database schema (LLM generated)  
+- Preparing frontend and backend integration  
+
+
+
+Collection: feedback  
+Fields:
+- name: string  
+- email: string  
+- message: string  
+- timestamp: number  
 
